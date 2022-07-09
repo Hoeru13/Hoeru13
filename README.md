@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hoeru13
 - 👀 I’m interested in programming, technology and video games.
-- 🌱 I’m currently learning Python, my first coding language!!
 - 👅 I speak Spanish, Catalan and English (I need to improve it)
 
 <!---
